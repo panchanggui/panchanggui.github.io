@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-11T14:21:02.505Z</updated>
+  <updated>2021-04-12T13:36:34.067Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>rabbitmq原理</title>
+    <link href="http://example.com/2021/04/12/rabbitmq%E5%8E%9F%E7%90%86/"/>
+    <id>http://example.com/2021/04/12/rabbitmq原理/</id>
+    <published>2021-04-12T12:49:28.000Z</published>
+    <updated>2021-04-12T13:36:34.067Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>后端</li><li>消息队列</li><li>rabbitmq</li></ul><h2 id="rabbitMq基本原理"><a href="#rabbitMq基本原理" class="headerlink" title="rabbitMq基本原理"></a>rabbitMq基本原理</h2><p>消息队列</p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;后端&lt;/li&gt;
+&lt;li&gt;消息队列&lt;/li&gt;
+&lt;li&gt;rabbitmq&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;rabbitMq基本原理&quot;&gt;&lt;a href=&quot;#rabbitMq基本原理&quot; class=&quot;headerlink&quot; title=&quot;rabbitMq基本原理&quot;
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
